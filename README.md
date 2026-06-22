@@ -50,11 +50,8 @@ Complete EDA with data visualization and feature engineering.
 
 ## 📫 Connect With Me
 
-- LinkedIn: Your LinkedIn URL
-- Email: your-email@gmail.com
+- LinkedIn: https://www.linkedin.com/in/parmarparesh90/
+- Email: pp6003271@gmail.com
 
-## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact)
